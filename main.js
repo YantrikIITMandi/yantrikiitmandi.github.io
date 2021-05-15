@@ -1,8 +1,3 @@
-function mainPage(){
-  $(".se-pre-con").hide();
-  $(".mainDiv").show();
-  window.scrollTo(0,0);
-}
 var slideIndex = 0;
 showSlides(slideIndex);
 
