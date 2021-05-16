@@ -4,8 +4,10 @@ body,html{
     font: italic small-caps bold 16px/2 Georgia, serif;
     
 }
-.hidden-code{
-    display:none;
+.QR{
+    transform: rotate(90deg);
+    width: 10px;
+    height: 10px;
 }
 .iit {
     position:absolute;
